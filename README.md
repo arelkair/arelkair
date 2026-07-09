@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Arel
 
-<!--
-**arelkair/arelkair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build with AI — agents, automations, web projects, and games.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[pool](https://github.com/arelkair/pool)** — 2D pool game with online multiplayer, built with a custom physics engine and peer-to-peer networking.
+- **[home](https://github.com/arelkair/home)** — Personal portfolio site with a theme toggle, 4-language support, and a Fluent/Windows 11-inspired design.
+- **[helloworld](https://github.com/arelkair/helloworld)** — My first web page.
+
+## Interests
+
+AI · Security · Self-hosting · Gaming
