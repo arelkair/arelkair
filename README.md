@@ -18,5 +18,3 @@ I build with AI — agents, automations, web projects, and games.
 
 ## Interests
 AI · Security · Self-hosting · Gaming
-
-![Stats](https://github-readme-stats.vercel.app/api?username=arelkair&show_icons=true&theme=dark)
