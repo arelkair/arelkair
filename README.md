@@ -18,3 +18,5 @@ I build with AI — agents, automations, web projects, and games.
 
 ## Interests
 AI · Security · Self-hosting · Gaming
+
+![Metrics](https://raw.githubusercontent.com/arelkair/arelkair/main/github-metrics.svg)
