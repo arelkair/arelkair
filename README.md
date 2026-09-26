@@ -1,20 +1,19 @@
-# Hi, I'm Arel
+# Arel Kair
 
-I build with AI — agents, automations, web projects, and games.
+I build web projects and games with AI, from Spain.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![PixiJS](https://img.shields.io/badge/PixiJS-E91E63?style=flat&logo=pixijs&logoColor=white)
-![PeerJS](https://img.shields.io/badge/PeerJS-000000?style=flat&logo=peerjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+[arelkair.dev](https://arelkair.dev) · [X](https://x.com/arelkair) · [YouTube](https://www.youtube.com/@arelkair) · [TikTok](https://www.tiktok.com/@arelkair) · [Discord](https://discord.com/users/1505398694810357830)
 
 ## Projects
 
-- **[pool](https://github.com/arelkair/pool)** — 2D pool game with online multiplayer, built with a custom physics engine and peer-to-peer networking.
-- **[poisoned-candy](https://github.com/arelkair/poisoned-candy)** — Multiplayer board game for 2-5 players, local or online via P2P, with a wildcard shop and configurable rooms.
-- **[home](https://github.com/arelkair/home)** — Personal portfolio site with a theme toggle, 4-language support, and a minimalist design.
+| Project | What it is | Built with | Links |
+| --- | --- | --- | --- |
+| **[Wii Party Recomp](https://github.com/arelkair/wiiparty-recomp)** | A static recompilation of Wii Party for PC. The game's code is translated into C++ and runs as a native Windows program, with no emulator. In development. | C++, Python, Direct3D 11 | [Case study](https://arelkair.dev/work/wii-party-recomp) |
+| **[Pool](https://github.com/arelkair/pool)** | A 2D pool game for the browser with online 1v1 over peer-to-peer and its own physics engine. | JavaScript, PixiJS, PeerJS, Vite | [Play](https://pool.arelkair.dev) · [Case study](https://arelkair.dev/work/pool) |
+| **[Poisoned Candy](https://github.com/arelkair/poisoned-candy)** | A board game for 2 to 5 players. Hide the poisoned candy, then take turns eating. On one device or online. | HTML, CSS, JavaScript, PeerJS | [Play](https://candy.arelkair.dev) · [Case study](https://arelkair.dev/work/poisoned-candy) |
+| **Nivra** | A private organizer for calendar, timetable, tasks, grades and money. Everything stays in your browser. | React, TypeScript, Tailwind CSS, Vite | [Open](https://nivra.arelkair.dev) · [Case study](https://arelkair.dev/work/nivra) |
+| **[home](https://github.com/arelkair/home)** | The source of my portfolio, arelkair.dev. | HTML, CSS, JavaScript | [Visit](https://arelkair.dev) |
 
 ## Interests
-AI · Security · Self-hosting · Gaming
+
+AI, security, self-hosting and gaming.
