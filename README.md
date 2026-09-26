@@ -1,6 +1,6 @@
 # Hi, I'm Arel
 
-I build with AI — agents, automations, web projects, and games.
+I build with AI: agents, automations, web projects, and games.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -14,10 +14,10 @@ I build with AI — agents, automations, web projects, and games.
 
 ## Projects
 
-- **[Wii Party Recomp](https://github.com/arelkair/wiiparty-recomp)** — Static recompilation of Wii Party, running natively on PC with no emulator.
-- **[Nivra](https://nivra.arelkair.dev)** — Private organizer for the browser. No account, everything stays on your device.
-- **[Pool](https://github.com/arelkair/pool)** — 2D pool game with online 1v1 and a custom physics engine.
-- **[Poisoned Candy](https://github.com/arelkair/poisoned-candy)** — Multiplayer board game for 2-5 players, local or online.
+- **[Wii Party Recomp](https://github.com/arelkair/wiiparty-recomp)** - Static recompilation of Wii Party, running natively on PC with no emulator.
+- **[Nivra](https://nivra.arelkair.dev)** - Private organizer for the browser. No account, everything stays on your device.
+- **[Pool](https://github.com/arelkair/pool)** - 2D pool game with online 1v1 and a custom physics engine.
+- **[Poisoned Candy](https://github.com/arelkair/poisoned-candy)** - Multiplayer board game for 2-5 players, local or online.
 
 ## Links
 
