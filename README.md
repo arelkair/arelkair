@@ -3,7 +3,7 @@
   <img src="assets/hero-light.svg" alt="Arel Kair" width="380">
 </picture>
 
-I build with AI: agents, automations, web projects, and games. Right now I'm porting Wii Party to PC and making small web apps that keep your data on your device.
+Developer from Spain. I turn console games into native PC programs, build web apps that keep your data on your own device, and make multiplayer games that run straight from the browser.
 
 ## Projects
 
