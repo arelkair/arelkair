@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" alt="Arel Kair" width="380">
-</picture>
+# Arel Kair
 
 I turn console games into native PC programs, build web apps that keep your data on your own device, and make multiplayer games that run straight from the browser.
 
