@@ -3,7 +3,7 @@
   <img src="assets/hero-light.svg" alt="Arel Kair" width="380">
 </picture>
 
-Developer from Spain. I turn console games into native PC programs, build web apps that keep your data on your own device, and make multiplayer games that run straight from the browser.
+Developer. I turn console games into native PC programs, build web apps that keep your data on your own device, and make multiplayer games that run straight from the browser.
 
 ## Projects
 
