@@ -1,14 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 124" width="520" height="124" role="img" aria-label="Arel Kair">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 236" width="720" height="236" role="img" aria-label="Arel Kair. Console games, native on PC. Web apps that stay on your device. Multiplayer, straight from the browser.">
   <style>
-    .name { font: 700 76px -apple-system, 'SF Pro Display', 'Segoe UI Variable Display', 'Segoe UI', Helvetica, Arial, sans-serif; letter-spacing: -3px; fill: #EDE8DD; }
-    .bar { fill: #5FA883; transform-box: fill-box; transform-origin: left center; }
+    text { font-family: -apple-system, 'SF Pro Display', 'Segoe UI Variable Display', 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .name { font-size: 76px; font-weight: 700; letter-spacing: -2.6px; fill: #EDE8DD; }
+    .line { font-size: 32px; font-weight: 600; letter-spacing: -0.6px; fill: #7C9186; }
     @media (prefers-reduced-motion: no-preference) {
-      .name { animation: rise 600ms cubic-bezier(0.23, 1, 0.32, 1) both; }
-      .bar { animation: grow 500ms cubic-bezier(0.23, 1, 0.32, 1) 120ms both; }
+      .name, .line { animation: rise 520ms cubic-bezier(0.23, 1, 0.32, 1) both; }
+      .l1 { animation-delay: 60ms; }
+      .l2 { animation-delay: 120ms; }
+      .l3 { animation-delay: 180ms; }
     }
     @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
-    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
   </style>
-  <text class="name" x="2" y="80">Arel Kair</text>
-  <rect class="bar" x="6" y="102" width="56" height="6" rx="3"/>
+  <text class="name" x="2" y="76">Arel Kair.</text>
+  <text class="line l1" x="4" y="132">Console games, native on PC.</text>
+  <text class="line l2" x="4" y="176">Web apps that stay on your device.</text>
+  <text class="line l3" x="4" y="220">Multiplayer, straight from the browser.</text>
 </svg>
