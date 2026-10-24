@@ -15,8 +15,6 @@ I'm Arel, a developer from Spain who builds with AI: agents, automations, web pr
 
 ## Featured projects
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/arelkair/wiiparty-recomp/main/docs/progress.svg" alt="Wii Party Recomp progress by component">
-
 ### [Wii Party Recomp](https://github.com/arelkair/wiiparty-recomp)
 
 ![Status](https://img.shields.io/badge/status-alpha_93%25-1B4332?style=flat-square&labelColor=1B4332&color=2F7D57)
@@ -34,8 +32,6 @@ Static recompilation of Wii Party for native PC. The game's PowerPC code is tran
 ![Python](https://img.shields.io/badge/Python-1B4332?style=flat-square&logo=python&logoColor=F3EEE4)
 ![CMake](https://img.shields.io/badge/CMake-1B4332?style=flat-square&logo=cmake&logoColor=F3EEE4)
 ![Direct3D](https://img.shields.io/badge/D3D11-1B4332?style=flat-square&logo=windows11&logoColor=F3EEE4)
-
-<br clear="right">
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/arelkair/home/main/src/assets/work/nivra.jpg" alt="Nivra dashboard">
 
