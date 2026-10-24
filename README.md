@@ -21,4 +21,4 @@ I turn console games into native PC programs, build web apps that keep your data
 ![Python](https://img.shields.io/badge/Python-0B1D14?style=flat-square&logo=python&logoColor=F3EEE4)
 ![React](https://img.shields.io/badge/React-0B1D14?style=flat-square&logo=react&logoColor=F3EEE4)
 
-[Website](https://arelkair.dev) &nbsp;&nbsp; [X](https://x.com/arelkair) &nbsp;&nbsp; [YouTube](https://www.youtube.com/@arelkair) &nbsp;&nbsp; [TikTok](https://www.tiktok.com/@arelkair) &nbsp;&nbsp; [Discord](https://discord.com/users/1505398694810357830)
+[Website](https://arelkair.dev) · [X](https://x.com/arelkair) · [YouTube](https://www.youtube.com/@arelkair) · [TikTok](https://www.tiktok.com/@arelkair) · [Discord](https://discord.com/users/1505398694810357830)
