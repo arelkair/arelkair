@@ -1,6 +1,6 @@
 # Arel Kair
 
-Software developer focused on low-level ports, private-by-design web apps and peer-to-peer games.
+Software developer who enjoys hard problems, from reverse engineering to real-time multiplayer. Focused on performance and privacy, and open to new projects.
 
 ## Projects
 
