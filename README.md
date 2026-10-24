@@ -1,6 +1,6 @@
 # Arel Kair
 
-I turn console games into native PC programs, build web apps that keep your data on your own device, and make multiplayer games that run straight from the browser.
+Software developer focused on low-level ports, private-by-design web apps and peer-to-peer games.
 
 ## Projects
 
