@@ -7,7 +7,7 @@ Software developer who enjoys hard problems, from reverse engineering to real-ti
 - **[Wii Party Recomp](https://github.com/arelkair/wiiparty-recomp)**: Wii Party running natively on PC, with no emulator.
 - **[Nivra](https://nivra.arelkair.dev)**: a private organizer for the browser. No account needed.
 - **[Pool](https://pool.arelkair.dev)**: 2D 8-ball with online 1v1 and a custom physics engine.
-- **[Poisoned Candy](https://candy-arelkair.vercel.app)**: a multiplayer board game for 2 to 5 players.
+- **[Poisoned Candy](https://candy.arelkair.dev)**: a multiplayer board game for 2 to 5 players.
 
 ## Stack
 
